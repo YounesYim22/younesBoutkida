@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/younesBoutkida/static/css/main.12fde35e.css",
+    "main.js": "/younesBoutkida/static/js/main.f1094003.js",
+    "static/js/592.16eefe61.chunk.js": "/younesBoutkida/static/js/592.16eefe61.chunk.js",
+    "static/media/res3.jpg": "/younesBoutkida/static/media/res3.072aa3a24a9a398d31c6.jpg",
+    "index.html": "/younesBoutkida/index.html",
+    "main.12fde35e.css.map": "/younesBoutkida/static/css/main.12fde35e.css.map",
+    "main.f1094003.js.map": "/younesBoutkida/static/js/main.f1094003.js.map",
+    "592.16eefe61.chunk.js.map": "/younesBoutkida/static/js/592.16eefe61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12fde35e.css",
+    "static/js/main.f1094003.js"
+  ]
+}
